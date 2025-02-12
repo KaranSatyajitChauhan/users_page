@@ -6,8 +6,7 @@ const CopyWebpackPlugin = require("copy-webpack-plugin");
 
 module.exports = {
 	entry: {
-		main: "./js/main.js",
-		product: "./js/product.js",
+		main: "./scripts/main.js"
 	},
 
 	output: {
